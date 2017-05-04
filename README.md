@@ -19,10 +19,10 @@ Founded in 2012, we have built an international team of hand picked people inclu
 We are preparing for an ambitious year ahead and that’s why we encourage you to join us!
 
 ## Sections
-* [Welcome to Owlin](https://github.com/basecamp/handbook/blob/master/basecamp-is-you.md)
-* [Typical day at Owlin](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
-* [The team](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
-* [Organizational structure](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
-* [Your first day](https://github.com/basecamp/handbook/blob/master/product-histories.md)
-* [List of applications used](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
-* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)
+* [Welcome to Owlin]()
+* [Typical day at Owlin]()
+* [The team]()
+* [Organizational structure]()
+* [Your first day]()
+* [List of applications used]()
+* [FAQ]()
