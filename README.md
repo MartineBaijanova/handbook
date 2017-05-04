@@ -8,7 +8,7 @@ We are preparing for an ambitious year ahead and that’s why we encourage you t
 ## Sections
 * [Welcome to Owlin](https://github.com/owlin/handbook/blob/master/welcome-to-owlin.md)
 * [Typical day at Owlin](https://github.com/owlin/handbook/blob/master/typical-day.md)
-* [The team]()
+* [The team](https://github.com/owlin/handbook/blob/master/the-team.md)
 * [Organizational structure]()
 * [Your first day]()
 * [List of applications used]()
