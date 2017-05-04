@@ -6,8 +6,8 @@ Founded in 2012, we have built an international team of hand picked people inclu
 We are preparing for an ambitious year ahead and that’s why we encourage you to join us!
 
 ## Sections
-* [Welcome to Owlin](https://github.com/owlin/handbook/welcome-to-owlin.md)
-* [Typical day at Owlin](https://github.com/owlin/handbook/typical-day.md)
+* [Welcome to Owlin](https://github.com/owlin/handbook/blob/master/welcome-to-owlin.md)
+* [Typical day at Owlin](https://github.com/owlin/handbook/blob/master/typical-day.md)
 * [The team]()
 * [Organizational structure]()
 * [Your first day]()
