@@ -1,5 +1,7 @@
 # Welcome to Owlin
 
+![welcomeowl](https://github.com/owlin/handbook/blob/master/welcome-owlin.png)
+
 We are really happy and excited that you joined Owlin.
 
 At Owlin we aim to create transparency in the financial world by revolutionising the way online news is used, and you are a valuable addition to the team that will get us there. More importantly, we have a lot of fun while doing it.

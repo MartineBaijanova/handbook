@@ -1,6 +1,6 @@
 # Your first day
 
-## Out location
+## Our location
 We are on the 7th floor of a centrally located office in Amsterdam at Stadhouderskade 85. An access card to the office can be found in your HootHoot welcome kit. Simply hold it in front of the sensor and push/pull open the doors or tell the elevator that you want to go to our floor. The building is accessible at all hours of the day. However, when you wish to leave or enter outside of office hours, please note that the revolving door and area demarcated by tape will set of an alarm. Instead you can use your access card on the entrance to be found on the right of the revolving doors.
 
 Emergency situations
