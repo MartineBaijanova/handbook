@@ -18,9 +18,11 @@ Founded in 2012, we have built an international team of hand picked people inclu
 
 We are preparing for an ambitious year ahead and that’s why we encourage you to join us!
 
+![stack Overflow](http://lmsotfy.com/so.png)
+
 ## Sections
-* [Welcome to Owlin]()
-* [Typical day at Owlin]()
+* [Welcome to Owlin](https://github.com/owlin/handbook/welcome-to-owlin.md)
+* [Typical day at Owlin](https://github.com/owlin/handbook/typical-day.md)
 * [The team]()
 * [Organizational structure]()
 * [Your first day]()
